@@ -1,0 +1,12 @@
+Basic Retrieval Questions
+1. What is the minimum booking duration?
+2. What is the pricing for SUV cars?
+3. What is the security deposit for luxury cars?
+4. What is the cancellation policy before 2 hours?
+5. What is the fuel policy for rentals?
+
+Scenario-Based Questions
+1. I booked an SUV for 5 hours, how much will I pay per hour?
+2. What happens if I return the car 3 hours late?
+3. What if I damage the car slightly?
+4. What is the penalty for speeding?
